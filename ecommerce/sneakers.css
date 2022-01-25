@@ -1,0 +1,136 @@
+@import url("https://fonts.google.com/specimen/Inter");
+@import url("https://fonts.google.com/specimen/Kumbh+Sans");
+
+.header{
+    width: 80%;
+}
+.boundary{
+    display: flex;
+    width: 80vw;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.thumbnail{
+    width: 20%;
+    border-radius: 12px;
+}
+.right{
+    
+    width: 50%;
+}
+#head{
+    color: black;
+}
+.left{
+    width: 50%;
+}
+.shoes{
+    display: flex;
+    width:70%;
+    justify-content: space-between;
+}
+.pic
+{
+    width: 70%;
+    border-radius: 12px;
+}
+#head{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    
+}
+.h{
+    color: hsl(26, 100%, 55%);
+}
+#fall{
+    font-size: 35px;
+    font-family: Kumbh-Sans;
+    font-weight: bold;
+}
+.minus{
+    justify-content: space-between;
+    width: 50%;
+    
+}
+#stuff{
+    font-size: 20px;
+    opacity: 0.4;
+}
+.plus{
+    width: 50%;
+    background-color: hsl(26, 100%, 55%);
+    border-radius: 5px;
+   justify-content: space-evenly;
+   display: flex;
+   
+}
+.action{
+    display: flex;
+    justify-content: space-evenly;
+}
+.button{
+    background-color: transparent;
+    border-color: transparent;
+    font-weight: bold;
+}
+#jj{
+    font-size: 30px;
+    font-weight: 700px;
+}
+#cut{
+    margin-left: 5%;
+    color: hsl(26, 100%, 55%);
+    font-weight: bold;
+}
+
+    
+    #caption{
+        color: white;
+        font-weight: bold;
+        margin-right: 12px;
+
+    }
+    #k{
+        width: 20px;
+        height: 20px;
+        margin-top: 13px;
+    }
+    #aa{
+        margin-left: auto;
+
+    }
+    #dd{
+        margin-left: 12px;
+
+    }
+    #hh{
+        margin-left: 23px;
+
+    }
+    #pic{
+        width: 40px;
+        height: 40px;
+
+    }
+    #pici{
+        margin-left: 120px;
+    }
+    nav{
+        margin-top: 50px;
+        
+    }
+    .link{
+        display: flex;
+        align-items: center;
+    }
+    a{
+        margin: 15px;
+        text-decoration-line: none;
+        color: black;
+        opacity: 0.6;
+
+    }
+  
